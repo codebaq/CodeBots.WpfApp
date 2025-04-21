@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeBots.WpfApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ac31462c7dbe24dd96663ba0028d9eb9fee868")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeBots.WpfApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeBots.WpfApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
